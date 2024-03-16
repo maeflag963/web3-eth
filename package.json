@@ -11,7 +11,7 @@
  "module": "lib/index.js",
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/maeflag963/web3-eth.git"
+  "url": "git+https://github.com/maeflag963/web3-eth-tools.git"
 },
 "publishConfig": {
   "access": "public",
