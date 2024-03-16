@@ -1,5 +1,5 @@
 {
- "name": "web3-eth",
+ "name": "web3-eth-tools",
  "version": "1.0.0",
  "description": "web3 module to interact with the Hedera hashgraph and smart contracts.",
  "license": "MIT",
